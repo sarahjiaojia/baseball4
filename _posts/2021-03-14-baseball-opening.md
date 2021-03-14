@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title:  "强棒少女"
 background: "/assets/images/angles.jpeg"
-category: "公益"
-tags: 公益 feature
+category: "工作"
+tags: 感悟
 ---

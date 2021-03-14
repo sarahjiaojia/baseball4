@@ -5,9 +5,9 @@ baseurl: "/baseball4"
 title: "棒球少女海来金里"
 username: sarah
 # 网站副标题
-description: "小小棒球开启改变贫困的契机"
+description: "小小棒球开启山区贫困女孩命运改变的契机"
 
-aboutme: "Sarah 😉🍕🎧"
+aboutme: "Sarah "
 
 # 其它配置, 可忽略, 无需修改
 markdown: kramdown
